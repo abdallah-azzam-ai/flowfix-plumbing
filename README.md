@@ -30,12 +30,6 @@ The quote form posts JSON to an n8n webhook. `main.js` validates name, phone, ZI
 - Inline SVG icons, no heavy libraries
 - Deployed on Vercel
 
-## Run locally
-```bash
-python3 -m http.server 8000
-```
-Then open http://localhost:8000
-
 ## Files
 - `index.html`: page and quote form
 - `styles.css`: styling
